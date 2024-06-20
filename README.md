@@ -1,4 +1,4 @@
-Steps to Set Up and Deploy the GuessTheFlagMultiplayer App Using Firebase
+# Steps to Set Up and Deploy the GuessTheFlagMultiplayer App Using Firebase
 1.	Create a Firebase Project
     + Visit the [Firebase Console](https://console.firebase.google.com/)
     ![CreateAProject1](https://github.com/if23b011/GuessTheFlagMultiplayer/assets/145259777/b386ca11-1f0a-4666-9e77-1852cfb7228b)
